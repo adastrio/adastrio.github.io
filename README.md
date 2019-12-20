@@ -1,1 +1,1 @@
-# adastrio.github.io
+# Ad Astra Stake Pool for Cardano
